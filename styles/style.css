@@ -20,7 +20,7 @@ body {
     background-color: var(--cor-background);
     font-family: var(--font-Montserrat);
 
-    background-image: url(/assets/img-background.png);
+    background-image: url(../assets/img-background.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
